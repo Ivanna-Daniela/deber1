@@ -92,3 +92,16 @@ Durante muchos años, [hub] [] fue la herramienta CLI de GitHub no oficial. `gh`
 cómo puede verse una herramienta CLI oficial de GitHub con un diseño fundamentalmente diferente. Mientras tanto
 las herramientas llevan GitHub a la terminal, `hub` se comporta como un proxy de` git`, y `gh` es independiente
 herramienta. Consulte nuestra [explicación más detallada] [gh-vs-hub] para obtener más información.
+[manual]: https://cli.github.com/manual/
+[Homebrew]: https://brew.sh
+[MacPorts]: https://www.macports.org
+[winget]: https://github.com/microsoft/winget-cli
+[scoop]: https://scoop.sh
+[Chocolatey]: https://chocolatey.org
+[Conda]: https://docs.conda.io/en/latest/
+[Spack]: https://spack.io
+[releases page]: https://github.com/cli/cli/releases/latest
+[hub]: https://github.com/github/hub
+[contributing]: ./.github/CONTRIBUTING.md
+[gh-vs-hub]: ./docs/gh-vs-hub.md
+[build from source]: ./docs/source.md
